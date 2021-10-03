@@ -1,3 +1,3 @@
 # React-Todo
 
-A simple CRUD todo app built using react js, css and localstorage.
+A react CRUD todo app with local storage.
